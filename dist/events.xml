@@ -93,26 +93,4 @@
       <media>https://www.britannica.com/place/Democratic-Republic-of-the-Congo/Mobutus-regime</media>
     </event>
   </track>
- <!-- <track type="3" name="late">
-    <event>
-      <title>Democratic Republic of the Conogo Declare Independence</title>
-      <date type="start">
-        <year>1960</year>
-        <month>06</month>
-        <day>30</day>
-        <era>AD</era>
-      </date>
-      <date type="end">
-        <year>1960</year>
-        <month>06</month>
-        <day>30</day>
-        <era>AD</era>
-      </date>
-      <description>The Democratic Republic of the Congo gained independence from Belgium June 30, 1960 making it the beginning of self rule
-      </description>
-      <lat>-4.4419</lat>
-      <lon>15.2663</lon>
-      <media>https://www.britannica.com/place/Democratic-Republic-of-the-Congo/Mobutus-regime</media> 
-    </event>
-  </track>-->
 </events>
